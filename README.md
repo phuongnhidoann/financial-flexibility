@@ -92,19 +92,23 @@ The data used includes financial indicators of non-financial companies sourced f
 
 <img src="https://i.imgur.com/OoN0Z5T.png">
 
-***Figure 1: Correlation Matrix***
+***Figure 1:*** Correlation Matrix
 
 From the correlation results and Figure 1, it can be observed that while some variables have strong correlations with each other, such as FF and DE or FF and ROA, there are also variables with no clear correlation, like FF and INF. This indicates the diversity in the relationships among financial indicators and the complexity of financial relationships in the real business environment.
 
 <img src="https://i.imgur.com/sb9z3FF.png">
 
-***Figure 2: Frequency Distribution of the Financial Flexibility Variable***
+***Figure 2:*** Frequency Distribution of the Financial Flexibility Variable
 
 <img src="https://i.imgur.com/0Eoy9hF.png">
 
-***Figure 3: Box Plot of the Financial Flexibility Variable***
+***Figure 3:*** Box Plot of the Financial Flexibility Variable
 
 Data visualization for the financial flexibility (FF) variable shows that the median is positioned approximately in the middle of the box, indicating a relatively even distribution; however, there is significant dispersion. The lines extending from the box represent the range of the data, excluding outliers, reaching the minimum and maximum values but not extending beyond 1.5 times the IQR from Q1 or Q3. Additionally, the FF variable has some notable outlier values.
+
+<img src="https://i.imgur.com/jjF2xol.png">
+
+***Figure 4:*** Frequency Chart of the Operational Efficiency Variable
 
 ## 4.2. Regression Analysis Results and Significance
 
