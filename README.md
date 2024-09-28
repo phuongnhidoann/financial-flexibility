@@ -27,7 +27,6 @@ In which:
 - ***Cash Flexibility*** is the ability to utilize the company’s internal capital, calculated as Cash and Cash Equivalents / Total Assets.
 - ***Debt Flexibility*** is the ability to obtain external financial resources, calculated as 1 – Debt Ratio / Total Assets.
 
-
 With the objective of examining the impact of effective risk management on the financial flexibility of companies, the research model is expressed as follows:
 
 ***FFi,t = + 1D/Ei,t + 2QRi,t + 3SIZEi,t + 4ROAi,t + 5INFt + εit      (1)***
@@ -124,13 +123,14 @@ Coefficients:
 | ROA | 0.44212492 | 0.05741451 | 7.7006 | 1.355e-14 *** |
 | INF | -0.00382671 | 0.00108665 | -3.5216 | 0.000429 *** |
 
+```sh
 Signif. codes:  0 ‘ *** ’ 0.001 ‘ ** ’ 0.01 ‘ * ’ 0.05 ‘ . ’ 0.1 ‘ ’ 1
-
 Total Sum of Squares:    35.27
 Residual Sum of Squares: 28.804
 R-Squared:      0.18332
 Adj. R-Squared: 0.18028
 Chisq: 268.328 on 5 DF, p-value: < 2.22e-16
+```
 
 ***Fixed Effects Model (FEM) Regression Results***
 
@@ -147,7 +147,7 @@ Chisq: 268.328 on 5 DF, p-value: < 2.22e-16
 
 ***Results of Multicollinearity Test for Variables in the Fixed Effects Model (FEM)***
 
-- To ensure the significance of the independent variables in the model, a multicollinearity test was conducted. The results showed that all Variance Inflation Factor (VIF) values for the independent variables were very close to 1, indicating that there is no significant correlation between these variables and others in the model, and there are no multicollinearity issues.
+To ensure the significance of the independent variables in the model, a multicollinearity test was conducted. The results showed that all Variance Inflation Factor (VIF) values for the independent variables were very close to 1, indicating that there is no significant correlation between these variables and others in the model, and there are no multicollinearity issues.
 
 Coefficients:
 |  | Estimate | Std. Error | t-value | Pr(>t) |
@@ -158,13 +158,14 @@ Coefficients:
 | ROA | 0.3185638 | 0.2203533 | 1.4457 | 0.15127 |
 | SINDEX | 0.0277574 | 0.0466555 | 0.5949 | 0.55317 |
 
+```sh
 Signif. codes:  0 ‘ *** ’ 0.001 ‘ ** ’ 0.01 ‘ * ’ 0.05 ‘ . ’ 0.1 ‘ ’ 1
-
 Total Sum of Squares:    0.96225
 Residual Sum of Squares: 0.84187
 R-Squared:      0.1251
 Adj. R-Squared: -0.84233
 F-statistic: 2.9742 on 5 and 104 DF, p-value: 0.015008
+```
 
 ***Fixed Effects Model (FEM) Regression Results during the COVID-19 Pandemic***
 
