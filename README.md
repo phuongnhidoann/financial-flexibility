@@ -1,3 +1,5 @@
+# THE IMPACT OF EFFECTIVE RISK MANAGEMENT OF ENTERPRISE PAYMENTS ON FINANCIAL FLEXIBILITY
+
 # 1. INTRODUCTION
 - Flexible financial strategies help companies adapt effectively and profitably to unforeseen cash flow fluctuations or investment choices (Nguyen, Q. K., 2024). This dynamic approach to financial planning emphasizes the importance of flexibility and thorough preparation when facing financial challenges and opportunities. Therefore, financial flexibility is a critical consideration for companies.
 - Effective risk management of payments is essential for both shareholders and managers. It refers to an organization’s ability to identify, assess, mitigate, and monitor risks to minimize potential negative impacts on its goals and operations (Nguyen, Q. K. & Dang, 2022b).
